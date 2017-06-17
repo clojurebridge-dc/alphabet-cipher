@@ -25,8 +25,11 @@ You may see tests are failing.
 Go back to Nightcode project and open test-->alphabet_cipher-->core_test.clj
 
 raffleanswer -- replace it with the decoded text
+
 publickey -- key shown during slides
+
 yourraffleticketcode -- private key, key only given to you.
+
 ```
 (deftest getmecode
   (testing "Add your keys."
